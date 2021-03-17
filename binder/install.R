@@ -6,3 +6,5 @@ install.packages("streamR",     repos = "https://cloud.r-project.org/", dependen
 install.packages("rtweet",      repos = "https://cloud.r-project.org/", dependencies = TRUE)
 install.packages("httpuv",      repos = "https://cloud.r-project.org/", dependencies = TRUE)
 install.packages("jsonlite",    repos = "https://cloud.r-project.org/", dependencies = TRUE)
+install.packages("haven",       repos = "https://cloud.r-project.org/", dependencies = TRUE)
+install.packages("readr",       repos = "https://cloud.r-project.org/", dependencies = TRUE)
